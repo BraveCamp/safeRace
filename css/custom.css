@@ -13,14 +13,14 @@ what happens if you didn't include this code */
     background-image: none
 }
 body {
-    background-color: #BEA8FF;
+    background-color: #B1C4FF;
 
 }
 /* The navigation bar is the menu of your website. Change the color of
 the bar and the text. Keep in mind that it must be easy to read. Also
 feel free to chage the font */
 .navbar-custom {
-    background-color: #BEA8FF;
+    background-color: #8F9FCF;
     font-family: 'Arial';
     font-weight: bold;
     font-size: 14px
