@@ -13,14 +13,14 @@ what happens if you didn't include this code */
     background-image: none
 }
 body {
-    background-color: #B1C4FF;
+    background-color: #ffffff;
 
 }
 /* The navigation bar is the menu of your website. Change the color of
 the bar and the text. Keep in mind that it must be easy to read. Also
 feel free to chage the font */
 .navbar-custom {
-    background-color: #8F9FCF;
+    background-color: #272F47;
     font-family: 'Arial';
     font-weight: bold;
     font-size: 14px
@@ -60,3 +60,9 @@ color:          #000000 !important;
 .about {
 	margin-top: 10px;
 }
+
+.center {
+  text-align:center;
+}
+/* This is the begining of the login function CSS */
+
